@@ -1,2 +1,2 @@
-# ds-algo-java
-Practice DS-Algo in Java alongwith competitive programming examples
+# algo-ds-java
+Practice Algo-DS in Java alongwith competitive programming examples
